@@ -1,0 +1,39 @@
+
+OKAPI TF:
+Average precision (non-interpolated) for all rel docs(averaged over queries)
+                  0.1501
+
+ At   10 docs:   0.2960
+ At   30 docs:   0.2240
+
+
+
+
+
+
+
+
+BM25:
+Average precision (non-interpolated) for all rel docs(averaged over queries)
+                  0.1821
+
+  At   10 docs:   0.2680
+
+  At   30 docs:   0.2253
+
+
+
+
+
+
+
+
+LAPLACE:
+Average precision (non-interpolated) for all rel docs(averaged over queries)
+                  0.0024
+
+ At   10 docs:   0.0200
+
+ At   30 docs:   0.0080
+
+

@@ -1,0 +1,54 @@
+OKAPI-TF
+
+Average precision (non-interpolated) for all rel docs(averaged over queries)
+                  0.1618
+
+At   10 docs:   0.3000
+
+At   30 docs:   0.2400
+
+
+
+TF-IDF
+
+Average precision (non-interpolated) for all rel docs(averaged over queries)
+                  0.2224
+
+At   10 docs:   0.3360
+
+At   30 docs:   0.2840
+
+
+
+BM-25
+Average precision (non-interpolated) for all rel docs(averaged over queries)
+                  0.1809
+
+At   10 docs:   0.2520
+
+
+At   30 docs:   0.2293
+
+
+
+
+Unigram LM with Laplace smoothing
+Average precision (non-interpolated) for all rel docs(averaged over queries)
+                  0.1401
+
+At   10 docs:   0.2920
+
+At   30 docs:   0.2400
+
+
+
+
+Unigram LM with Jelinek-Mercer smoothing
+
+Average precision (non-interpolated) for all rel docs(averaged over queries)
+                  0.1395
+
+ At   10 docs:   0.2920
+
+ At   30 docs:   0.2387
+
